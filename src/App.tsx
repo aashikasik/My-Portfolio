@@ -184,7 +184,7 @@ function App() {
       tech: ['React.js', 'TypeScript', 'Vite', 'Tailwind CSS', 'HTML & CSS'],
       codeLinks: [
         { url: 'https://github.com/ArwaEmamm/Graduation-Project-From-ITI-FrontEnd', label: 'Full Code' },
-        { url: '', label: 'Live Demo' }
+        { url: 'https://asikportfolio.netlify.app', label: 'Live Demo' }
       ]
     },
   ];
