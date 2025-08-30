@@ -325,7 +325,7 @@ function App() {
                       View CV
                     </a>
                     <a
-                      href="Asik Mohamed.pdf"
+                      href="Asik Mohamed Resume.pdf"
                       download
                       className="border-2 border-blue-600 text-blue-600 py-2 rounded-lg font-semibold transition-all duration-300 hover:bg-blue-50 dark:hover:bg-gray-800"
                     >
