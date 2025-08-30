@@ -317,7 +317,7 @@ function App() {
                   <h3 className="text-xl font-bold mb-4">Get My CV</h3>
                   <div className="flex flex-col gap-4 mb-6">
                     <a
-                      href="Asik Mohamed.pdf"
+                      href="Asik Mohamed Resume.pdf"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="bg-gradient-to-r from-blue-600 to-purple-600 text-white py-2 rounded-lg font-semibold transition-all duration-300 hover:from-blue-700 hover:to-purple-700"
