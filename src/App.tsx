@@ -262,7 +262,7 @@ function App() {
           <div className="text-center">
             <div className="mb-8">
               <img
-                src="main img.jpg"
+                src="main image.jpg"
                 alt="Profile"
                 className="w-32 h-32 rounded-full mx-auto object-cover border-4 border-blue-500 shadow-xl"
               />
